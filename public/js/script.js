@@ -1,1 +1,1 @@
-alert('selamat datang di beranda');
+s
